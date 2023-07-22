@@ -1,0 +1,70 @@
+.wrapper{
+    width: 30%;
+    margin: 0 auto;
+    border: 5px solid black;
+
+}
+label{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.first_name{
+    width: 85%;
+    margin-left: 30px;
+    height: 20px;
+    padding: 3px;
+    font-size: 15px;
+}
+.last_name{
+    width: 85%;
+    margin-left: 30px;
+    height: 20px;
+    padding: 3px;
+    font-size: 15px;
+}
+.email{
+    width: 85%;
+    margin-left: 30px;
+    height: 20px;
+    padding: 3px;
+    font-size: 15px;
+}
+.pass{
+    width: 85%;
+    margin-left: 30px;
+    height: 20px;
+    padding: 3px;
+    font-size: 15px;
+}
+.dob{
+    height: 20px;
+    margin-left: 30px;
+    padding: 3px;
+    font-size: 15px;
+}
+.msg{
+    font-size: 15px;
+    margin-left: 30px;
+    padding: 3px;
+}
+.box_button{
+    margin-bottom: 10px;
+    padding: 0 229px;
+}
+table{
+    width: 100%;
+    border: 1px solid rgb(177, 172, 172);
+    border-collapse: collapse;
+}
+th,td{
+    font-size: 20px;
+    text-align: center;
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+}
+th,td:hover{
+    background-color: #ddd;
+}
+tr:nth-child(even){
+    background-color: #84e2e2;
+}
